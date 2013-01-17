@@ -2,6 +2,7 @@
 "name":"Rotate-and-Scale",
 "version":"0.1.5",
 "title":"Rotate-and-Scale",
+"description":"Rotate and Scale whatever elements you want with jQuery",
 "keywords":["ui", "animation", "effect"],
 "author":"Leonardo Cardoso",
 "licences":[
