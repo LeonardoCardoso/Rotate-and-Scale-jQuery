@@ -5,8 +5,6 @@ Developed by <a href='https://github.com/LeonardoCardoso' target='_blank'>@Leona
 
 A mix of Rotate and Scale. Same usage.
 
-For more details, see examples and know the parameters, visit http://lab.leocardz.com/rotate-and-scale-jquery/
-
 ## Contact
 Contact me either by Twitter [@leocardz](https://twitter.com/leocardz) or emailing me to [contact@leocardz.com](mailto:contact@leocardz.com).
 
